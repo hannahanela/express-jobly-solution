@@ -1,6 +1,6 @@
 # Jobly Backend
 
-This is the Express backend that supports [Jobly](https://github.com/hannahanela/react-jobly). This code was provided with complete features to expedite the React build. If you'd like to view my own work in Express, please visit [my express-jobly repository](https://github.com/hannahanela/express-jobly).
+This is the Express backend that supports [Jobly](https://github.com/hannahanela/react-jobly). This code was provided by Rithm School with complete features to expedite the React build. If you'd like to view my own work in Express, please visit [my express-jobly repository](https://github.com/hannahanela/express-jobly).
 
 ## Developer Environment Setup
 
