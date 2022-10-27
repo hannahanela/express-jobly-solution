@@ -18,7 +18,7 @@ jobly.sql is provided to create and seed the database.
 
 `node server.js -p 3001`
 
-If you need to see something in your browser, you can use [http://localhost:3001/jobs](http://localhost:3001/jobs).
+If you need to view it in your browser, you can use [http://localhost:3001/jobs](http://localhost:3001/jobs).
 
 ### To run tests:
 
