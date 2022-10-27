@@ -1,8 +1,8 @@
 # Jobly Backend
 
-This is the Express backend that supports [Jobly](https://github.com/hannahanela/react-jobly). This code was provided with complete features to expedite the React build. If you'd like to view my own work in express, please visit [my express-jobly repository.](https://github.com/hannahanela/express-jobly)
+This is the Express backend that supports [Jobly](https://github.com/hannahanela/react-jobly). This code was provided with complete features to expedite the React build. If you'd like to view my own work in Express, please visit [my express-jobly repository](https://github.com/hannahanela/express-jobly).
 
-## To Run
+## Developer Environment Setup
 
 This app uses a PostgreSQL database. You'll need Node 18 and PostgreSQL 12 or later.
 
