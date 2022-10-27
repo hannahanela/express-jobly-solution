@@ -6,7 +6,7 @@ This is the Express backend that supports [Jobly](https://github.com/hannahanela
 
 This app uses a PostgreSQL database. You'll need Node 18 and PostgreSQL 12 or later.
 
-To install dependencies:
+In your directory, install dependencies:
 
 `npm install`
 
